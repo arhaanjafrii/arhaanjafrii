@@ -6,3 +6,4 @@
 - 🌍 from `austin, texas.`
 - 🤖 hardware+cad for ftc team 20240 Slingshot
 - 💬 `contact` me on discord @watermeloncarnivore
+- good version control? never heard of that
